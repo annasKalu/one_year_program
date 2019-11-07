@@ -1,0 +1,20 @@
+to comment in javascript one will use either:
+// and the ces to be committomment (for a single comment)  or
+/*   my comment */ (for multiple comments).
+anything written after or inside the comments sign will not
+be executen by the program. It will be ignored.
+
+
+Variables:is a named storage for storing data.
+To create a Variables in JS "let" (modern usage) is used. or
+one can us the abreviation "var" (older usage) which functions
+almost as "let". Also "const" can be used but when a 
+Variablesis defined as "const" it can't be changed.
+
+
+eg
+radius of a circle
+var radius = 2;
+circle area = PI
+
+or
